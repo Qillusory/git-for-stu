@@ -5,4 +5,4 @@ Git is free software .
 
 Git has a mutable inde called stage . 
 
-Git tracks changes .
+Git tracks changes of files .
